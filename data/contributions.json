@@ -1,22 +1,22 @@
 {
   "username": "obeduri",
-  "generated_at": "2026-11-24T17:53:42Z",
+  "generated_at": "2026-11-25T17:20:23Z",
   "range": {
     "start": "2025-11-23",
+    "end": "2026-11-25"
+  },
+  "total_contributions": 2340,
+  "active_days": 243,
+  "avg_per_active_day": 9.6,
+  "current_streak": {
+    "length": 45,
+    "start": "2026-10-11",
     "end": "2026-11-24"
   },
-  "total_contributions": 2339,
-  "active_days": 242,
-  "avg_per_active_day": 9.7,
-  "current_streak": {
-    "length": 44,
-    "start": "2026-10-11",
-    "end": "2026-11-23"
-  },
   "longest_streak": {
-    "length": 44,
+    "length": 45,
     "start": "2026-10-11",
-    "end": "2026-11-23"
+    "end": "2026-11-24"
   },
   "best_day": {
     "date": "2026-08-30",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 84
+      "total": 85
     }
   ],
   "days": [
@@ -1909,6 +1909,11 @@
     },
     {
       "date": "2026-11-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-25",
       "count": 0,
       "level": 0
     }
